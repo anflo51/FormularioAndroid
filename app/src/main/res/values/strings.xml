@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FormularioAndroid</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="direccion">Dirección</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="fecha_nacimiento">Fecha de Nacimiento</string>
+    <string name="estado_civil">Estado Civil</string>
+    <string name="nombre_usuario">Nombre de Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="listado">Listado</string>
+    <string name="guardar">Guardar</string>
+    <string name="fecha">01/01/2000</string>
+    <string name="detail">Detail</string>
+</resources>
